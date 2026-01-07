@@ -33,7 +33,7 @@ Nashik, maharashtra → building cool things
 
 • **Watch hell lot of movies**
 
-• **languages** — marathi, hindi, english, konkni,
+• **languages** — marathi, hindi, english, konkni, goan
 
 • **code** — python projects, dsa challenges, web stuff
 
