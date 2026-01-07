@@ -1,4 +1,4 @@
-# hey there 👋
+# Hey there 👋
 
 cs student | developer | he/him
 
