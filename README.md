@@ -26,6 +26,13 @@ Nashik, maharashtra → building cool things
 ---
 
 ## what i do
+
+• **pspspsps cats for no absolute reason**
+
+• **procrastinate**
+
+• **Watch hell lot of movies**
+
 • **languages** — marathi, hindi, english, konkni, goan
 
 • **code** — python projects, dsa challenges, web stuff
