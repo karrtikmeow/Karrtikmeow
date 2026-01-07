@@ -26,10 +26,14 @@ Nashik, maharashtra → building cool things
 ---
 
 ## what i do
-• **languages** — marathi, hindi, english, konkni, goan 
+• **languages** — marathi, hindi, english, konkni, goan
+
 • **code** — python projects, dsa challenges, web stuff
-• **create** — web applications with HTML/CSS/JavaScript  
+
+• **create** — web applications with HTML/CSS/JavaScript
+
 • **learn** — cs fundamentals, algorithms, database design
+
 • **build** — projects that solve real problems
 
 ---
