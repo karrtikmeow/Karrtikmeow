@@ -1,8 +1,8 @@
 # hey there 👋
 
-cs student | developer | she/her
+cs student | developer | he/him
 
-nashik, maharashtra → building cool things
+Nashik, maharashtra → building cool things
 
 ---
 
@@ -26,7 +26,7 @@ nashik, maharashtra → building cool things
 ---
 
 ## what i do
-
+• **languages** — marathi, hindi, english, konkni, goan 
 • **code** — python projects, dsa challenges, web stuff
 • **create** — web applications with HTML/CSS/JavaScript  
 • **learn** — cs fundamentals, algorithms, database design
@@ -36,7 +36,7 @@ nashik, maharashtra → building cool things
 
 ## find me
 
-📧 email: [your-email@example.com](mailto:your-email@example.com)  
+📧 email: [Kartiksanap115@gmail.com](mailto:kartiksanap115@gmail.com)  
 💼 linkedin: [linkedin.com/in/karrtikmeow](https://linkedin.com)  
 🐱 github: [@karrtikmeow](https://github.com/karrtikmeow)  
 
