@@ -25,7 +25,7 @@ Nashik, maharashtra → building cool things
 
 ---
 
-## what i do
+## What i do
 
 • **pspspsps cats for no absolute reason**
 
